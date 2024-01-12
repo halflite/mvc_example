@@ -23,8 +23,8 @@
         "files.eol": "\n",
         "files.trimTrailingWhitespace": true,
         "java.format.enabled": true,
-        "java.format.settings.profile": "GoogleStyle",
-        "java.format.settings.url": "file:.devcontainer/eclipse-java-google-style.xml",
+        "java.format.settings.profile": "LocalStyle",
+        "java.format.settings.url": "eclipse-formatter.xml",
         "[xml]": {
           "editor.formatOnSave": false
         }
