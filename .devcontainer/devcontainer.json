@@ -7,6 +7,11 @@
     "vscode": {
       "extensions": [
         "ms-ceintl.vscode-language-pack-ja",
+        "vscjava.vscode-java-pack",
+        "vscjava.vscode-java-debug",
+        "vscjava.vscode-maven",
+        "redhat.java",
+        "redhat.vscode-xml",
         "mhutchie.git-graph"
       ],
       "settings": {}
