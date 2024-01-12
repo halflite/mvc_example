@@ -1,0 +1,42 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>net.halflite</groupId>
+  <artifactId>mvc</artifactId>
+  <packaging>jar</packaging>
+  <version>1.0-SNAPSHOT</version>
+  <name>mvc</name>
+  <url>http://maven.apache.org</url>
+  <dependencies>
+    <!-- MVC -->
+    <dependency>
+      <groupId>org.eclipse.krazo</groupId>
+      <artifactId>krazo-jersey</artifactId>
+      <version>3.0.1</version>
+    </dependency>
+    <dependency>
+      <groupId>org.eclipse.krazo.ext</groupId>
+      <artifactId>krazo-freemarker</artifactId>
+      <version>3.0.0</version>
+    </dependency>
+    <!-- Servlet -->
+    <dependency>
+      <groupId>com.google.inject.extensions</groupId>
+      <artifactId>guice-servlet</artifactId>
+      <version>7.0.0</version>
+    </dependency>
+    <!-- Server -->
+    <dependency>
+      <groupId>org.eclipse.jetty</groupId>
+      <artifactId>jetty-server</artifactId>
+      <version>12.0.5</version>
+    </dependency>
+    <!-- Config -->
+    <dependency>
+      <groupId>org.apache.geronimo.config</groupId>
+      <artifactId>geronimo-config-impl</artifactId>
+      <version>1.2.3</version>
+    </dependency>
+  </dependencies>
+</project>
