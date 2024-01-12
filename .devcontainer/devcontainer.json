@@ -12,6 +12,7 @@
         "vscjava.vscode-maven",
         "redhat.java",
         "redhat.vscode-xml",
+        "redhat.fabric8-analytics",
         "mhutchie.git-graph"
       ],
       "settings": {
