@@ -1,0 +1,15 @@
+{
+  "name": "mvc",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-ceintl.vscode-language-pack-ja",
+        "mhutchie.git-graph"
+      ],
+      "settings": {}
+    }
+  }
+}
