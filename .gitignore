@@ -1,3 +1,7 @@
 # git ignore
 .vscode
+mvc/.classpath
+mvc/.project
+mvc/.settings/
 mvc/target
+/.metadata/
