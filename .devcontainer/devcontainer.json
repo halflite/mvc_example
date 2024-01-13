@@ -7,9 +7,7 @@
     "vscode": {
       "extensions": [
         "ms-ceintl.vscode-language-pack-ja",
-        "vscjava.vscode-java-pack",
         "redhat.vscode-xml",
-        "redhat.fabric8-analytics",
         "mhutchie.git-graph"
       ],
       "settings": {
@@ -22,9 +20,6 @@
         "files.encoding": "utf8",
         "files.eol": "\n",
         "files.trimTrailingWhitespace": true,
-        "java.format.enabled": true,
-        "java.format.settings.profile": "LocalStyle",
-        "java.format.settings.url": "eclipse-formatter.xml",
         "[xml]": {
           "editor.formatOnSave": false
         }
